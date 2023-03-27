@@ -1,48 +1,34 @@
-<h1>Octernship Information</h1>
+# Github Octernship submission
+Hello, My name is Pranav Prajapati.I'm Data-Science and Machine learning engineer. I'm currently in first year of my university pursuing B-tech in the branch of Artificial Intelligence and Data Science. Talking about my work experince, I was Reasearch and developement Engineer in an Edtech startup **Antern** lead by Ayush Singh. I am also active contributor in open-source organizations like sktime which is machine learning toolbox for time series.Below are details of the product idea that I have thought that can generate positive cash flow in the upcoming 10 years. I have also built a working demo of the product as project which revolves around the idea of the product.
 
+## Comment Analytics for Youtube
 
-<h3>Company information</h3>
-We are building a platform for easy discovery and commercialization of AI solutions. Think of us like "AppStore for AI" but with more diverse monetization options (Memberships, Targeted ads, Review farming, etc).
+In today's digital age, YouTube has become the go-to platform for content creators and marketers alike. With millions of videos uploaded every day, the content market is growing rapidly. As the competition on the platform intensifies, it becomes increasingly difficult for creators to gauge their audience's response and understand what they like or dislike about their content. The same goes for marketers, who need to understand their target audience to create effective campaigns.
 
-<h3>Why participate in an Octernship with GitHub</h3>
-Textify is changing the way the world builds and monetizes AI apps, and we want you to help build Textify! Our team actively contributes to the AI benchmarking and discovery community. In this role, you will have the opportunity to work as a AI engineer with a distributed, diverse & passionate team delivering features & improvements to our AI platform. You’ll get to work closely with external community contributors as well as internal stakeholders from engineering, design, security, support, product & leadership. Your work will have a direct impact on the lives of millions of AI users around the world.
+For instance, imagine a content creator who has just launched a new video series. By using this product, they can quickly analyze the sentiment of the comments on their videos and understand how their audience is responding to their content. They can then make informed decisions on how to improve their videos to better meet their audience's preferences.
 
-<h3>Octernship role description</h3>
-We're looking for a AI developer to join the App Development Team. This team is responsible for the AI tools to solve common problems faced by students.
+## Benefits
+**This product can provide range of benefits the content creator, including :**
 
-<h4>Octernship info	Timelines and Stipend</h4>
-Assignment Deadline	1 April 2023
-Octernship Duration	2 Months
-Monthly Stipend	$500 USD
+- Saves time and resources: Manual analysis of comments is time-consuming and resource-intensive. This tool automates the process, allowing content creators to focus on creating content.
 
-<h4>Recommended qualifications</h4>
-Experience with Git & GitHub
-Passion for AI applications
-Good communication and research skills
+- Enhances audience engagement: By tailoring content to their audience's interests, content creators can increase audience engagement and loyalty.
 
-<h4>Eligibility</h4>
-To participate, you must be:
-<ul>A verified student on Global Campus</ul>
-<ul>18 years or older</ul>
-<ul>Active contributor on GitHub (monthly)</ul>
+## Link to Video submission and live product demo 
 
-<h4>Assignment</h4>
-<ul>Ideate on possible ways to monetize B2C AI solutions. </ul>
+[Video submission and working demo of the project](https://drive.google.com/file/d/1sR0rz22krXfrAxCWNAb_kSWBIbfQbq-e/view?usp=share_link)
 
-<h4>Task instructions</h4>
-<ul> We want you to think of ways B2C AI solutions will be monetized in the future.
-For example, in the late 90s, search engines were a hot upcoming technology that allowed people to navigate the web effortlessly. There were multiple business models identified at the time varying in revenue generation capability and mass adoption. Finally, Search powered by targetted advertisement arose as the most suitable commercialization method for this technology.
-We want you to understand the cost structure of AI applications (development, hosting, sales, etc) and consider ways they can be best monetized allowing the best user experience and lower cost (targeted ads, memberships, government fundraising, etc.)
+## Improvements that can be made in the product
 
-</ul>
+-  This app is dependant on selenium to gather data, we can use Youtube API to fetch comments which can be feasible and also reduce latency
+- NLP techniques to identify questions in the comments and show the genuine and frequent ones to the creator
 
-<h4>Task Expectations</h4>
-We want you to identify a unique monetization opportunity with B2C AI applications. The solution should be both feasible and should also have potential to generate positive cashflow in a 10 period timeframe.
+That set from my side, Hoping for a positive response to the octernship application. **Goodbye !**
 
-<h3>Task submission</h4>
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bento.me/pranavv)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavvprajapati/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/pranavvstwt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavprajapati586@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavvp16)
 
-Students are expected to use the GitHub Flow when working on their project.
-Making changes on the auto generated feedback branch to complete the task
-Using the auto generated Feedback Pull Request for review and submission
-Using GitHub Discussions to ask any relevant questions regarding the project
 
