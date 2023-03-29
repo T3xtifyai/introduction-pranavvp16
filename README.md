@@ -14,9 +14,10 @@ For instance, imagine a content creator who has just launched a new video series
 
 - Enhances audience engagement: By tailoring content to their audience's interests, content creators can increase audience engagement and loyalty.
 
-## Link to Video submission and live product demo 
+## Link to Video submission and PowerPoint presentation on AI-based monetization idea
 
 [Video submission and working demo of the project](https://drive.google.com/file/d/1sR0rz22krXfrAxCWNAb_kSWBIbfQbq-e/view?usp=share_link)<br>
+[PowerPoint presentation for AI monetization](https://docs.google.com/presentation/d/1E6TN161Vy1v0pSZAA-DzXSx26Hx1Vc8ogpGmQ8-Tw2A/edit?usp=sharing)<br>
 [Github link to the project](https://github.com/pranavvp16/YT_comment_analysis)
 
 ## Improvements that can be made in the product
